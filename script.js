@@ -6,7 +6,7 @@ window.addEventListener("load",()=>{
 
         document.getElementById("main-site").style.display="block";
 
-    },13000);
+    },10000);
 
 });
 const sideMenu = document.getElementById("sideMenu");
